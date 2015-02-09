@@ -1,0 +1,1 @@
+Official wifi driver support is at rtlwifi_new on github
